@@ -95,11 +95,3 @@ plt.ylabel("Velocidade máxima (m/s)")
 plt.grid()
 fig4.show()
 fig4.savefig("python I050A.pdf")
-
-    
-
-    
-
-        
-
-print("peepoo poo check")
